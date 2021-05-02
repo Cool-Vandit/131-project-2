@@ -1,0 +1,21 @@
+
+.main_text{
+    width: 45%;
+    font-size: 20px;
+    color: crimson;
+    border: 4px cyan ridge;
+    border-radius: 10px;
+}
+
+a{
+    font-size: 30px;
+    color: lime;
+    list-style: none;
+    background-color: peru;
+    padding: 10px;
+}
+
+
+ul{
+    margin-top: 100px;
+}
